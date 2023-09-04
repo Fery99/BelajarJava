@@ -7,5 +7,5 @@ public class Buatbaru {
             for( int i = 0; i < Array1.length; i++ ){
                 System.out.println("Ini disebut Aray" + Arrays.toString(Array1) );
             }
-    }//babi
+    }//babi/
 }
