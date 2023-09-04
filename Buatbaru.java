@@ -8,6 +8,6 @@ public class Buatbaru {
                 System.out.println("Ini disebut Aray" + Arrays.toString(Array1) );
             }
 
-        System.out.println("okeoke");
+
     }
 }
